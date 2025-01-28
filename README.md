@@ -1,6 +1,7 @@
 # Hello👋 I'm Akshay Komar
 
-Myself Akshay, an active GitHub contributor with experience improving projects like WordPress, Wikimedia, and WooCommerce Android apps by fixing bugs, enhancing UI, and boosting app stability. I’ve built apps like News App, CineVerse, and ChitChat using Kotlin, Jetpack Compose, Retrofit, and Room, focusing on clean architecture and a seamless user experience. I’m passionate about developing efficient and user-friendly Android applications.
+Myself Akshay, an active GitHub contributor with experience improving projects like WordPress, Wikimedia, and WooCommerce Android apps by fixing bugs, enhancing UI, and boosting app stability. 
+I’ve built apps like News App, CineVerse, and ChitChat using Kotlin, Jetpack Compose, Retrofit, and Room, focusing on clean architecture and a seamless user experience. I’m passionate about developing efficient and user-friendly Android applications.
 
 
 Programming Languages: Kotlin - Java.
