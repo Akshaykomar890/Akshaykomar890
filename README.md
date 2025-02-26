@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshay Komar<br>I'm a passionate Android and Backend Developer from India.<br><br>🔹 Currently working on: Open-source contributions to Wikimedia Commons, WordPress, and WooCommerce Android apps<br>🔹 Tech Stack: Kotlin, Golang, Java, SQL, Jetpack Compose, MVVM, Room DB, Retrofit, Firebase, Docker<br>🔹 Love building: Scalable Android apps, REST APIs with Golang, and contributing to open-source projects</h2>
+<h2 align="left">Hi 👋! My name is Akshay Komar<br>I'm a passionate Android and Backend Developer from India.<br><br>🔹 Currently working on: Open-source contributions to Wikimedia Commons, WordPress, and WooCommerce Android apps<br>🔹 Tech Stack: Kotlin, Golang, Java, SQL, Jetpack Compose, MVVM, Room DB, Retrofit, Firebase, Docker<br>🔹 Love building: Scalable Android apps, REST APIs with Golang, and contributing to open source projects</h2>
 
 ###
 
